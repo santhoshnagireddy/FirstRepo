@@ -1,0 +1,12 @@
+ <web-app>
+ <servlet>
+ <servlet-name>hai</servlet-name>
+ <servlet-class>com.nt.ojas.SecondApp</servlet-class>
+ </servlet>
+ 
+ <servlet-mapping>
+ <servlet-name>hai</servlet-name>
+ <url-pattern>/app</url-pattern>
+ 
+ </servlet-mapping>
+ </web-app>
